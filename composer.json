@@ -1,0 +1,17 @@
+{
+    "name": "user/rogin-app",
+    "autoload": {
+        "psr-4": {
+            "User\\RoginApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "garuruga-ilyan",
+            "email": "0418nodiz@gmail.com"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.7"
+    }
+}
